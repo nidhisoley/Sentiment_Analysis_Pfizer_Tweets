@@ -13,4 +13,6 @@ Further, after identifying the location with highest number of tweets, I stratif
 - The major words used by the people for psoitive sentiments were success, created, vaccine, and daikon (because some folks suggested daikon paste can treat cytokine). The negative word cloud has words like death, side effect, first, stop, second, vaccine. 
 - When I focused on users of London (location with highest tweets) I found that majority of sentiments were positive, with only 17% being negative. Most common words used by these people were pfizerbiontech, vaccine, first, got, done, thank.
 
+I have added the pdf version of the code, because of the dynamic rendering problem of plotly on github.
+
 Citation: Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
